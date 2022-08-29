@@ -7,7 +7,7 @@ The methodology has been tested on two different datasets:
 
 * **EDUCA**: it is formed by lecture notes and video lectures from some MIT courses.
 
-The datasets can be downloaded at the following address: [http://a.com](http://a.com)
+The datasets can be downloaded at the following address: [https://kaggle.com/datasets/f35d99e30d00deea4a2162dacae2d665be7ab0ce18368ad97b7b6ce78933aab9](https://kaggle.com/datasets/f35d99e30d00deea4a2162dacae2d665be7ab0ce18368ad97b7b6ce78933aab9)
 
 In the following we will describe Python scripts useful for re-running experiments or testing code on new data. 
 A brief clarification on the meaning of the names used in the following is given here:
